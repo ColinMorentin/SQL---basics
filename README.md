@@ -1,1 +1,2 @@
-# SQL---basics
+# SQL-basics
+practicing basics
